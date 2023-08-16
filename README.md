@@ -8,6 +8,8 @@ In this project, I have used Python to develop a linear regression model that pr
 * Data Transformation: Data preoprocessing to uphold accuracy of the model by using one-hot encoding to convert categorical variables to numerical values.
 * Prediction: Finding trends within the data and deploy the Linear Regression learning algorithm.
 
+![alt text](https://github.com/tola923/Car_Price_Prediction/blob/master/corr%20plot.png)
+
 ### Model Development and Evaluation
 
 Linear regression was chosen as the model of choice due to it's ease of interpretability. I used both scikit-learn and NumPy libraries to implement the linear regression algorithm. The model was trained on a portion of the dataset and validated using various evaluation metrics.
